@@ -1,0 +1,342 @@
+{
+  "MGA": {
+    "19": {
+      "name": "Locowin",
+      "url": "https://www.locowin.com/",
+      "version": "v1.5",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//input[@id='fullModalUsername']"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//input[@id='fullModalPassword']"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//a[@class='showLoginTrigger']"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@rel='loginmodalFull']"
+      },
+      "cookie_accept": {
+        "by": "ID",
+        "property": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      },
+      "user_avatar": "",
+      "cashier_modal": {
+        "by": "XPATH",
+        "property": "//div[@class='experience-cashier-bg']"
+      },
+      "deposit_button": {
+        "by": "XPATH",
+        "property": "//div[@class='transaction-button ']"
+      }
+    },
+    "1012": {
+      "name": "Vegadream",
+      "url": "https://www.vegadream.com/",
+      "version": "v2.0",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//div[1][@class='form-field']/input[@name='username']"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//div[2][@class='form-row']/div/div/input"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//div[@class='header-controls__inner']/button[3]"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@type='submit']/span[1]"
+      },
+      "cookie_accept": {
+        "by": "ID",
+        "property": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      },
+      "user_avatar": {
+        "by": "XPATH",
+        "property": "//span[@class='user-avatar']"
+      }
+    },
+    "1018": {
+      "name": "BetOriginal",
+      "url": "https://www.betoriginal.com/",
+      "version": "v3.0",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//input[@name='email_input']"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//input[@name='password_input']"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//button[@class='Button__StyledButton-wbaydb-0 Button__PrimaryButton-wbaydb-1 Button__SecondaryButtonHeaderV2-wbaydb-9 bfFcdk hTbdap cSAaJP btn btn-primary']"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@type='submit']"
+      },
+      "cookie_accept": {
+        "by": "ID",
+        "property": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      },
+      "user_avatar": {
+        "by": "XPATH",
+        "property": "//div[@class='user-dropdowm']"
+      }
+    },
+    "1019": {
+      "name": "FlamingCasino",
+      "url": "https://www.flamingcasino.com/",
+      "version": "v3.0",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//div[@class='login-content-form-wrapper']/form/div[1]/input"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//div[@class='login-content-form-wrapper']/form/div[2]/input[1]"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//div[@id='root']/nav/div/div[3]/button[1]"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@type='submit']"
+      },
+      "cookie_accept": {
+        "by": "ID",
+        "property": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      },
+      "user_avatar": {
+        "by": "XPATH",
+        "property": "//div[@class='user-dropdowm']"
+      }
+    },
+    "1005": {
+      "name": "RantCasino",
+      "url": "https://www.rantcasino.com/",
+      "version": "v2.0",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//div[1][@class='form-field']/input[@name='username']"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//div[2][@class='form-row']/div/div/input"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//div[@class='header-controls__inner']/button[3]"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@type='submit']"
+      },
+      "cookie_accept": {
+        "by": "ID",
+        "property": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      },
+      "user_avatar": {
+        "by": "XPATH",
+        "property": "//span[@class='user-avatar']"
+      }
+    },
+    "6": {
+      "name": "SugarCasino",
+      "url": "https://www.sugarcasino.com/",
+      "version": "v1.5",
+      "username_box": {
+        "by": "ID",
+        "property": "modalLoginUsername"
+      },
+      "password_box": {
+        "by": "ID",
+        "property": "modalLoginPassword"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//div[@class='header-login']/div[1]/div[1]/a"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@rel='modal']"
+      },
+      "cookie_accept": {
+        "by": "ID",
+        "property": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      },
+      "user_avatar": "",
+      "cashier_modal": {
+        "by": "XPATH",
+        "property": "//div[@class='experience-cashier-bg']"
+      },
+      "deposit_button": {
+        "by": "XPATH",
+        "property": "//div[@class='transaction-button ']"
+      }
+    }
+  },
+  "CURACAO": {
+    "2005": {
+      "name": "Viggoslots",
+      "url": "https://www.viggoslots.com/",
+      "version": "v1.5",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//input[1][@name='loginUsername']"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//input[1][@name='loginPassword']"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//div[@class='sign-in-block']/a/span"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@class='btn btn-lg btn-wide btn-primary loginTriggerRedirect']"
+      },
+      "cookie_accept": {
+        "by": "ID",
+        "property": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      },
+      "user_avatar": {
+        "by": "XPATH",
+        "property": "//img[@class='header-profile-icon']"
+      },
+      "cashier_modal": {
+        "by": "XPATH",
+        "property": "//div[@class='ec-view']"
+      },
+      "cashier_button": {
+        "by": "XPATH",
+        "property": "//div[@class='header-profile big']/div[3]/a"
+      },
+      "deposit_button": {
+        "by": "XPATH",
+        "property": "//div[@class='transaction-button ']"
+      }
+    },
+    "34": {
+      "name": "Stakes",
+      "url": "https://www.stakes2.com/",
+      "version": "v2.0",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//input[1][@name='username']"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//input[@name='password']"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//div[1][@class='header-login']/div[2]/div"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@type='submit']"
+      },
+      "cookie_accept": {
+        "by": "XPATH",
+        "property": "//div[1][@class='accept-cookie-wrap']/div"
+      },
+      "user_avatar": {
+        "by": "XPATH",
+        "property": "//div[@class='balance-deposit']"
+      },
+      "cashier_modal": {
+        "by": "XPATH",
+        "property": "//div[@class='experience-cashier-bg']"
+      },
+      "cashier_button": {
+        "by": "XPATH",
+        "property": "//div[@class='balance-deposit']"
+      },
+      "deposit_button": {
+        "by": "XPATH",
+        "property": "//div[@class='transaction-button ']"
+      }
+    },
+    "28": {
+      "name": "AzurCasino",
+      "url": "https://www.azurcasino2.com/",
+      "version": "v2.0",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//input[1][@name='username']"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//input[@name='password']"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//div[1][@class='header-login']/div[2]/div"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@type='submit']"
+      },
+      "cookie_accept": {
+        "by": "XPATH",
+        "property": "//div[1][@class='accept-cookie-wrap']/div"
+      },
+      "user_avatar": {
+        "by": "XPATH",
+        "property": "//div[@class='header-username']"
+      }
+    },
+    "2017": {
+      "name": "CasinoVoila",
+      "url": "https://casinovoila.com/",
+      "version": "v3.0",
+      "username_box": {
+        "by": "XPATH",
+        "property": "//input[1][@name='email_input']"
+      },
+      "password_box": {
+        "by": "XPATH",
+        "property": "//input[@name='password_input']"
+      },
+      "login_button": {
+        "by": "XPATH",
+        "property": "//div[@class='nav-bar-container']/div[3]/button[1]"
+      },
+      "submit_button": {
+        "by": "XPATH",
+        "property": "//button[@type='submit']"
+      },
+      "cookie_accept": {
+        "by": "ID",
+        "property": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll"
+      },
+      "user_avatar": {
+        "by": "XPATH",
+        "property": "//div[@class='user-dropdowm']"
+      },
+      "cashier_modal": {
+        "by": "XPATH",
+        "property": "//div[@class='modal-content']"
+      },
+      "cashier_button": {
+        "by": "XPATH",
+        "property": "//div[@class='balance-deposit']"
+      },
+      "deposit_button": {
+        "by": "XPATH",
+        "property": "//div[@class='NavbarV2__NavButtonsV2-sc-14tmem-3 cFDdtU header-navbar-buttons']/button[1]"
+      }
+    }
+  }
+}
